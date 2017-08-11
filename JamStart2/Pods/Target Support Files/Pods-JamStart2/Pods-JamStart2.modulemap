@@ -1,0 +1,6 @@
+framework module Pods_JamStart2 {
+  umbrella header "Pods-JamStart2-umbrella.h"
+
+  export *
+  module * { export * }
+}

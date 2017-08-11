@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>974553980023-r1h2iuukuvcc3c613ub8da44o6ig98m9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.974553980023-r1h2iuukuvcc3c613ub8da44o6ig98m9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDr181QDwIL8RV5fgQIG_6JBuu1Qdf1caE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>974553980023</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mszabo.JamStart2</string>
+	<key>PROJECT_ID</key>
+	<string>jamstart2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jamstart2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:974553980023:ios:ebd6da068d2fe698</string>
+	<key>DATABASE_URL</key>
+	<string>https://jamstart2.firebaseio.com</string>
+</dict>
+</plist>
